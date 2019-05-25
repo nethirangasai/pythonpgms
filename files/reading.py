@@ -1,0 +1,16 @@
+
+f=open('G:/python by durga/python pgms/files/input.py','r')
+# for line in f:
+#     print(line)
+# print(f.read())
+# print()
+# print(f.read(7))
+# print()
+# print(f.readline())
+# print()
+print(f.readlines())
+# print(f.name)
+# print(f.readable())
+# print(f.writable())
+# print(f.mode)
+# print(f.closed)
